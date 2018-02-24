@@ -1,4 +1,4 @@
-package com.lzw.dialog;
+package com.qjy.dialog;
 
 import java.awt.EventQueue;
 import java.awt.GridBagConstraints;
@@ -14,8 +14,8 @@ import javax.swing.JDialog;
 import javax.swing.JLabel;
 import javax.swing.JTextField;
 
-import com.lzw.LinkItem;
-import com.lzw.MainFrame;
+import com.qjy.LinkItem;
+import com.qjy.MainFrame;
 
 public class LinkInfoDialog extends JDialog {
 
